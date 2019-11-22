@@ -18,14 +18,14 @@ In this repository you can find the codes of the programs developed for my thesi
 
 ## How to make every C++ code work
 
-- Compile the code `codename.cpp`:
-    g++ -std=c++14 codename.cpp exename
-- Make the cod run:
-    ./exename
+1. Compile the code `codename.cpp`:
+```g++ -std=c++14 codename.cpp exename```
+2. Make the cod run:
+```./exename```
 
 ## How to make every Python code work
 
-- Make the code `codename.py` run:
-    python codename.py
+1. Make the code `codename.py` run:
+```python codename.py```
 
 For any questions mail me at `federico.lanza.5@gmail.com`
